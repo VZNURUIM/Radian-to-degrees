@@ -13,4 +13,6 @@ int main() {
 	cin >> number_radiano;
 
 	cout << "Radiano para graus: " << radiano(number_radiano);
+
+	return 0;
 }
